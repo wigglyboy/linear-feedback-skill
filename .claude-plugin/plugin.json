@@ -1,0 +1,9 @@
+{
+  "name": "linear-feedback",
+  "version": "1.0.0",
+  "description": "Import feedback from any source (URL, file, or pasted text) into Linear issues. Groups feedback into themes and creates issues automatically.",
+  "author": {
+    "name": "Zac Kelly",
+    "email": "zac.kelly@unjumble.com"
+  }
+}
